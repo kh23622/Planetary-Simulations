@@ -42,3 +42,10 @@ make sure you choose the output file with highest number as it is the last compl
 #### STEP 5: Plot profiles using 
 ##### run command line ./python3 plot_HERCULES_structure.py
 
+
+### Algorithm:
+#### You can use the same file you used for plotting in the algorithm file path. 
+make sure you will have to change file paths depending on where you store your file / output
+
+
+
